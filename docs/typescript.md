@@ -4,7 +4,7 @@ If you are here, you are interested on using `lottie-react-native` in your types
 
 ## Getting started
 
-This documentation assumes you have configured your project following the instructions provided in the [readme file](../README.md), it also assumes you have 
+This documentation assumes you have configured your project following the instructions provided in the [readme file](../README.md), it also assumes you have a basic understanding of JavaScript. 
 
 ## Usage
 
